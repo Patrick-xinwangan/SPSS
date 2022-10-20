@@ -9,4 +9,4 @@ xx=[min(x),max(x)];
 yy=mu+sigma*xx;
 plot(x,y,'.k',xx,yy)
 grid on
-title('QQͼ')
+title('QQ图')
