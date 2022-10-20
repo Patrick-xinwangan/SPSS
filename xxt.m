@@ -1,7 +1,7 @@
-%%ºÐÐÎÍ¼
+%%ç®±çº¿å›¾
 function xxt(x)
 x=x(:);
 boxplot(x,0,'x');
 xlabel('');
-ylabel('Êý¾ÝÖµ');
-title('ºÐÐÎÍ¼');
+ylabel('æ•°æ®å€¼');
+title('ç›’å½¢å›¾');
