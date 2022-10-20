@@ -1,4 +1,4 @@
-%%¿¨·½¼ìÑé
+%%å¡æ–¹æ£€éªŒ
 function yout=chis(x,varargin)
 sigma=1;tail=0;alpha=0.05;yout=0; 
 if nargin >1
