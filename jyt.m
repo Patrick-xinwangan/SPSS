@@ -1,4 +1,4 @@
-%%��Ҷͼ
+%%茎叶图
 function jyt(x,mtp)
 if nargin<2
     mtp=1;
