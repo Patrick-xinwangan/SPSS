@@ -1,4 +1,4 @@
-%% ���رȽ�LSD��
+%%多重比较LSD法
 function y=cmps(A)
 alpha=[0.01,0.05];
 [m,s]=size(A);
@@ -21,8 +21,8 @@ M=fliplr(tm1);
 ind=fliplr(tm2);
 [p,table]=anova1(A,[],'off');
 MSE=table{3,4};
-y{1,1}='ˮƽ';
-y{1,2}='ƽ����';
+y{1,1}='Ë®Æ½';
+y{1,2}='Æ½¾ùÊý';
 for k=1:s
     y{1,k+2}=['A',int2str(tm2(k))];
 end
