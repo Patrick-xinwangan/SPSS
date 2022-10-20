@@ -1,4 +1,4 @@
-%%QQͼ
+%%QQ图
 function qqs(y)
 y=y(:)';
 y=sort(y);
